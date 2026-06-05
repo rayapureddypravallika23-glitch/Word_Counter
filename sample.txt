@@ -1,0 +1,3 @@
+Python is easy to learn.
+This is my internship project.
+I am learning Python programming.
